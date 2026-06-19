@@ -1,0 +1,20 @@
+{
+  "repositories": {
+    "react-fundamentals": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "html-one": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
+  "general": {
+    "pages": [
+      "sample-pape-page"
+    ],
+    "slides": []
+  }
+}
